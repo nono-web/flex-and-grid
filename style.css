@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+ 
+}
+
+.yellow {
+  background-color: yellow;
+  width: 10rem;
+  height: 10rem;
+}
+
+.green {
+  background-color: green;
+  width: 10rem;
+  height: 10rem;
+}
+
+.blue {
+  background-color: blue;
+  width: 10rem;
+  height: 10rem;
+}
+
+.red {
+  background-color: red;
+  width: 10rem;
+  height: 10rem;
+}
